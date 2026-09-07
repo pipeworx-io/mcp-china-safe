@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-china-safe",
+  "version": "0.1.0",
+  "description": "China SAFE (State Administration of Foreign Exchange) — 国家外汇管理局",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "china-safe"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeworx-io/mcp-china-safe.git"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
