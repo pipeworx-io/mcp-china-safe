@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-china-safe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "China SAFE (State Administration of Foreign Exchange) — 国家外汇管理局",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-d757cb57cb12cc634d61344109ba70867d2771148600e85f86652eed7614b9f0",
+    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
   }
 }
